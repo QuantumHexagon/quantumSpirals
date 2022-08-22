@@ -1,0 +1,20 @@
+{
+    // Music data id
+    "id": "pl_099",
+
+    // Music file
+    "file_name": "pl_099.ogg",
+
+    // Music information
+    "name": "what we did in the desert",
+    "album": "",
+    "author": "eightiesheadachetape",
+
+    // Segments
+    "segments":
+    [
+        { "time": 66 },
+		{ "time": 87 },
+		{ "time": 153 }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    // Music data id
+    "id": "empty",
+
+    // Music file
+    "file_name": "",
+
+    // Music information
+    "name": "VARIOUS",
+    "album": "",
+    "author": "VARIOUS",
+
+    // Segments
+    "segments":
+    [
+		{ "time": 0 }
+    ]
+}

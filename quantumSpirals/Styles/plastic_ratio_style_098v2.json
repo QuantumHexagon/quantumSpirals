@@ -1,0 +1,34 @@
+{
+    // Style data id
+    "id": "pl_098v2",
+
+	// * Don't need hue options if there are no dynamic colors
+
+    // * Don't need pulse options if there are no pulse colors
+
+    // 3D options
+    "3D_depth": 2,
+    "3D_skew": 0.15,
+	"3D_pulse_min": 3,
+	"3D_pulse_max": 3,
+    "3D_spacing": 10, //2.5
+    "3D_darken_multiplier": 1,
+    "3D_alpha_multiplier": 0.9,
+    "3D_alpha_falloff": 100.0,
+    "3D_override_color": [255, 255, 255, 255],
+
+    // Main color
+	// * The "main" tag is completely useless
+	// * colors are not dynamic by default
+	// * Pulse is by default [0, 0, 0, 0]
+    "main": {"value": [82, 197, 255, 255]},
+    "cap_color": {"legacy": true, "index": 0},
+
+    // Background colors
+	// * Dynamic tags aren't needed if "dynamic" is false
+    "colors":
+    [
+		{"value": [197, 82, 255, 255]}
+
+    ]
+}
