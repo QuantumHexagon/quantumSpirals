@@ -1,0 +1,22 @@
+{
+    // Music data id
+    "id": "pl_100",
+
+    // Music file
+    "file_name": "pl_100.ogg",
+
+    // Music information
+    "name": "ghost",
+    "album": "",
+    "author": "DJ Kuroneko",
+
+    // Segments
+    "segments":
+    [
+        { "time": 23 },
+		{ "time": 46.5 },
+		{ "time": 70 },
+		{ "time": 116.5 },
+		{ "time": 140 }
+    ]
+}

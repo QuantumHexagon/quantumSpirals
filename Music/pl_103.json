@@ -1,0 +1,19 @@
+{
+    // Music data id
+    "id": "pl_103",
+
+    // Music file
+    "file_name": "pl_103.ogg",
+
+    // Music information
+    "name": "Storm in aeternum",
+    "album": "",
+    "author": "freshtildesu",
+
+    // Segments
+    "segments":
+    [
+        { "time": 54.5 },
+		{ "time": 136.5 }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    // Music data id
+    "id": "pl_098",
+
+    // Music file
+    "file_name": "pl_098.ogg",
+
+    // Music information
+    "name": "Nu Slumber",
+    "album": "",
+    "author": "Kaizo Slumber",
+
+    // Segments
+    "segments":
+    [
+        { "time": 30 },
+		{ "time": 50.5 },
+		{ "time": 100.5 }
+    ]
+}
