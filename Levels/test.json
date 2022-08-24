@@ -1,7 +1,7 @@
 {
     "id": "test",
-    "name": "test",
-    "description": "testing",
+    "name": "intro screen",
+    "description": "hello!",
     "author": "quantum",
     "menuPriority": 0,
     "selectable": true,

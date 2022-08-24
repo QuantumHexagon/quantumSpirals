@@ -109,7 +109,7 @@ function onInit()
 			elseif mKey == 9 and sides() == 4 then qConnectingSpiral(10, 1, rpos(), rdir(), 1, sides() -1, 1.75) -- 1w single c-spiral
 			elseif mKey == 10 and sides() == 6 then qSpiral(rpos(), 1, 6, 3, 1, "alt"){1}{1}(1.75) -- 2w 1g double spiral/x2r
 			elseif mKey == 11 and sides() == 8 then qSpiral(rpos(), 1, 6, 4, 2){1,2}(1.75) -- 2w 1g 1,2s corner spiral
-			elseif mKey == 12 and sides() == 8 then qSpiral(rpos(), 0.75, 4, 4, 1){1}{1}{1}{1}(1.75) -- 1w 3g double spiral/x3 **FIX DELAY
+			elseif mKey == 12 and sides() == 8 then qSpiral(rpos(), 0.75, 4, 4, 1){1}{1}{1}{1}(1.75) -- 1w 3g double spiral/x3 **ACTUALLY IDEAL DELAY
 			elseif mKey == 13 and sides() == 8 then qIdealBarrageSpiral(rpos(), u_rndInt(4, 8), 20, rdir(), 3, 2, 1.75) -- 3g 2s barrage
 			elseif mKey == 14 and sides() == 4 then qSpiral(rpos(), 1, 4, 4, 2, "alt"){1}{1}(1.75) -- 2w single spiral/x2r
 			end
