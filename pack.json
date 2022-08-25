@@ -1,6 +1,6 @@
 {
-    "disambiguator": "quantumpack",
-    "name": "quantumpack",
+    "disambiguator": "quantumSpirals",
+    "name": "quantumSpirals",
     "author": "quantum",
     "version": 1,
     "priority": -99999.1,
