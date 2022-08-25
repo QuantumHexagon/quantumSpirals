@@ -3,7 +3,7 @@
     "name": "quantumSpirals",
     "author": "quantum",
     "version": 1,
-    "priority": -99999.1,
+    "priority": 1,
 
     "dependencies":
     [
